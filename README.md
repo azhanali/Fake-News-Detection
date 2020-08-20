@@ -1,2 +1,2 @@
-# Fake-News-Detection-using-
+# Fake-News-Detection
 Fake news detection using Count vectorizer
